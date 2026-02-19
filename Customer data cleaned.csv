@@ -1,0 +1,59 @@
+﻿customerid,firstname,lastname,company,address,city,state,country,postalcode,phone,fax,email,supportrepid,PostalCode_Status
+1,Luis,Gonialves,Embraer - Empresa Brasileira de Aeroniutica S.A.,"Av. Brigadeiro Faria Lima, 2170",Sio Josi Dos Campos,Sp,Brazil,12227-000,+551239235555,+55 (12) 3923-5566,luisg@embraer.com.br,3,Valid
+2,Leonie,Kihler,Not Provided,Theodor-Heuss-Straie 34,Stuttgart,Not Provided,Germany,70174,+4907112842222,Not Provided,leonekohler@surfeu.de,5,Valid
+3,Franiois,Tremblay,Not Provided,1498 rue Bilanger,Montrial,Qc,Canada,H2G 1A7,+15147214711,Not Provided,ftremblay@gmail.com,3,Valid
+4,Bjirn,Hansen,Not Provided,Ullevilsveien 14,Oslo,Not Provided,Norway,0171,+4722442222,Not Provided,bjorn.hansen@yahoo.no,4,Valid
+5,Frantiiek,Wichterlovi,JetBrains s.r.o.,Klanova 9/506,Prague,Not Provided,Czech Republic,14700,+420241725555,+420 2 4172 5555,frantisekw@jetbrains.com,4,Valid
+6,Helena,Holi,Not Provided,Rilski 3174/6,Prague,Not Provided,Czech Republic,14300,+420241770449,Not Provided,hholy@gmail.com,5,Valid
+7,Astrid,Gruber,Not Provided,"Rotenturmstraie 4, 1010 Innere Stadt",Vienne,Not Provided,Austria,1010,+43015134505,Not Provided,astrid.gruber@apple.at,5,Valid
+8,Daan,Peeters,Not Provided,Gritrystraat 63,Brussels,Not Provided,Belgium,1000,+32022190303,Not Provided,daan_peeters@apple.be,4,Valid
+9,Kara,Nielsen,Not Provided,Sinder Boulevard 51,Copenhagen,Not Provided,Denmark,1720,+45333319991,Not Provided,kara.nielsen@jubii.dk,4,Valid
+10,Eduardo,Martins,Woodstock Discos,"Rua Dr. Falcio Filho, 155",Sio Paulo,Sp,Brazil,01007-010,+551130335446,+55 (11) 3033-4564,eduardo@woodstock.com.br,4,Valid
+11,Alexandre,Rocha,Banco do Brasil S.A.,"Av. Paulista, 2022",Sio Paulo,Sp,Brazil,01310-200,+551130553278,+55 (11) 3055-8131,alero@uol.com.br,5,Valid
+12,Roberto,Almeida,Riotur,"Praia Pio X, 119",Rio De Janeiro,Rj,Brazil,20040-020,+552122717000,+55 (21) 2271-7070,roberto.almeida@riotur.gov.br,3,Valid
+13,Fernanda,Ramos,Not Provided,Qe 7 Bloco G,Brasilia,Df,Brazil,71020-677,+556133635547,+55 (61) 3363-7855,fernadaramos4@uol.com.br,4,Valid
+14,Mark,Philips,Telus,8210 111 ST NW,Edmonton,Ab,Canada,T6G 2C7,+17804344554,+1 (780) 434-5565,mphilips12@shaw.ca,5,Valid
+15,Jennifer,Peterson,Rogers Canada,700 W Pender Street,Vancouver,Bc,Canada,V6C 1G8,+16046882255,+1 (604) 688-8756,jenniferp@rogers.ca,3,Valid
+16,Frank,Harris,Google Inc.,1600 Amphitheatre Parkway,Mountain View,Ca,USA,94043-1351,+16502530000,+1 (650) 253-0000,fharris@google.com,4,Valid
+17,Jack,Smith,Microsoft Corporation,1 Microsoft Way,Redmond,Wa,USA,98052-8300,+14258828080,+1 (425) 882-8081,jacksmith@microsoft.com,5,Valid
+18,Michelle,Brooks,Not Provided,627 Broadway,New York,Ny,USA,10012-2612,+12122213546,+1 (212) 221-4679,michelleb@aol.com,3,Valid
+19,Tim,Goyer,Apple Inc.,1 Infinite Loop,Cupertino,Ca,USA,95014,+14089961010,+1 (408) 996-1011,tgoyer@apple.com,3,Valid
+20,Dan,Miller,Not Provided,541 Del Medio Avenue,Mountain View,Ca,USA,94040-111,+16506443358,Not Provided,dmiller@comcast.com,4,Valid
+21,Kathy,Chase,Not Provided,801 W 4th Street,Reno,Nv,USA,89503,+17752237665,Not Provided,kachase@hotmail.com,5,Valid
+22,Heather,Leacock,Not Provided,120 S Orange Ave,Orlando,Fl,USA,32801,+14079997788,Not Provided,hleacock@gmail.com,4,Valid
+23,John,Gordon,Not Provided,69 Salem Street,Boston,Ma,USA,2113,+16175221333,Not Provided,johngordon22@yahoo.com,4,Valid
+24,Frank,Ralston,Not Provided,162 E Superior Street,Chicago,Il,USA,60611,+13123323232,Not Provided,fralston@gmail.com,3,Valid
+25,Victor,Stevens,Not Provided,319 N. Frances Street,Madison,Wi,USA,53703,+16082570597,Not Provided,vstevens@yahoo.com,5,Valid
+26,Richard,Cunningham,Not Provided,2211 W Berry Street,Fort Worth,Tx,USA,76110,+18179247272,Not Provided,ricunningham@hotmail.com,4,Valid
+27,Patrick,Gray,Not Provided,1033 N Park Ave,Tucson,Az,USA,85719,+15206224200,Not Provided,patrick.gray@aol.com,4,Valid
+28,Julia,Barnett,Not Provided,302 S 700 E,Salt Lake City,Ut,USA,84102,+18015317272,Not Provided,jubarnett@gmail.com,5,Valid
+29,Robert,Brown,Not Provided,796 Dundas Street West,Toronto,On,Canada,M6J 1V1,+14163638888,Not Provided,robbrown@shaw.ca,3,Valid
+30,Edward,Francis,Not Provided,230 Elgin Street,Ottawa,On,Canada,K2P 1L7,+16132343322,Not Provided,edfrancis@yachoo.ca,3,Valid
+31,Martha,Silk,Not Provided,194A Chain Lake Drive,Halifax,Ns,Canada,B3S 1C5,+19024500450,Not Provided,marthasilk@gmail.com,5,Valid
+32,Aaron,Mitchell,Not Provided,696 Osborne Street,Winnipeg,Mb,Canada,R3L 2B9,+12044526452,Not Provided,aaronmitchell@yahoo.ca,4,Valid
+33,Ellie,Sullivan,Not Provided,5112 48 Street,Yellowknife,Nt,Canada,X1A 1N6,+18679202233,Not Provided,ellie.sullivan@shaw.ca,3,Valid
+34,Joio,Fernandes,Not Provided,Rua da Assuniio 53,Lisbon,Not Provided,Portugal,Not provided,+351213466111,Not Provided,jfernandes@yahoo.pt,4,Valid
+35,Madalena,Sampaio,Not Provided,"Rua dos Campeies Europeus de Viena, 4350",Porto,Not Provided,Portugal,Not provided,+351225022448,Not Provided,masampaio@sapo.pt,4,Valid
+36,Hannah,Schneider,Not Provided,Tauentzienstraie 8,Berlin,Not Provided,Germany,10789,+4903026550280,Not Provided,hannah.schneider@yahoo.de,5,Valid
+37,Fynn,Zimmermann,Not Provided,Berger Straie 10,Frankfurt,Not Provided,Germany,60316,+4906940598889,Not Provided,fzimmermann@yahoo.de,3,Valid
+38,Niklas,Schrider,Not Provided,Barbarossastraie 19,Berlin,Not Provided,Germany,10779,+490302141444,Not Provided,nschroder@surfeu.de,3,Valid
+39,Camille,Bernard,Not Provided,"4, Rue Milton",Paris,Not Provided,France,75009,+330149706565,Not Provided,camille.bernard@yahoo.fr,4,Valid
+40,Dominique,Lefebvre,Not Provided,"8, Rue Hanovre",Paris,Not Provided,France,75002,+330147427171,Not Provided,dominiquelefebvre@gmail.com,4,Valid
+41,Marc,Dubois,Not Provided,"11, Place Bellecour",Lyon,Not Provided,France,69002,+330478303030,Not Provided,marc.dubois@hotmail.com,5,Valid
+42,Wyatt,Girard,Not Provided,"9, Place Louis Barthou",Bordeaux,Not Provided,France,33000,+330556969696,Not Provided,wyatt.girard@yahoo.fr,3,Valid
+43,Isabelle,Mercier,Not Provided,"68, Rue Jouvence",Dijon,Not Provided,France,21000,+330380736699,Not Provided,isabelle_mercier@apple.fr,3,Valid
+44,Terhi,Himiliinen,Not Provided,Porthaninkatu 9,Helsinki,Not Provided,Finland,00530,+358098702000,Not Provided,terhi.hamalainen@apple.fi,3,Valid
+46,Hugh,O'Reilly,Not Provided,3 Chatham Street,Dublin,Dublin,Ireland,Not provided,+353016792424,Not Provided,hughoreilly@apple.ie,3,Valid
+47,Lucas,Mancini,Not Provided,"Via Degli Scipioni, 43",Rome,Rm,Italy,00192,+390639733434,Not Provided,lucas.mancini@yahoo.it,5,Valid
+48,Johannes,Van Der Berg,Not Provided,Lijnbaansgracht 120bg,Amsterdam,Vv,Netherlands,1016,+310206223130,Not Provided,johavanderberg@yahoo.nl,5,Valid
+49,Stanislaw,Wijcik,Not Provided,Ordynacka 10,Warsaw,Not Provided,Poland,00-358,+48228283739,Not Provided,stanislaw.w�jcik@wp.pl,4,Valid
+50,Enrique,Muioz,Not Provided,C/ San Bernardo 85,Madrid,Not Provided,Spain,28015,+34914454454,Not Provided,enrique_munoz@yahoo.es,5,Valid
+51,Joakim,Johansson,Not Provided,Celsiusg. 9,Stockholm,Not Provided,Sweden,11230,+46086515252,Not Provided,joakim.johansson@yahoo.se,5,Valid
+52,Emma,Jones,Not Provided,202 Hoxton Street,London,Not Provided,United Kingdom,N1 5LH,+4402077070707,Not Provided,emma_jones@hotmail.com,3,Valid
+53,Phil,Hughes,Not Provided,113 Lupus St,London,Not Provided,United Kingdom,SW1V 3EN,+4402079765722,Not Provided,phil.hughes@gmail.com,3,Valid
+54,Steve,Murray,Not Provided,110 Raeburn Pl,Edinburgh,Not Provided,United Kingdom,EH4 1HH,+4401313153300,Not Provided,steve.murray@yahoo.uk,5,Valid
+55,Mark,Taylor,Not Provided,421 Bourke Street,Sidney,Nsw,Australia,2010,+610293323633,Not Provided,mark.taylor@yahoo.au,4,Valid
+56,Diego,Gutiirrez,Not Provided,307 Macacha Giemes,Buenos Aires,Not Provided,Argentina,1106,+5401143114333,Not Provided,diego.gutierrez@yahoo.ar,4,Valid
+57,Luis,Rojas,Not Provided,"Calle Lira, 198",Santiago,Not Provided,Chile,Not provided,+56026354444,Not Provided,luisrojas@yahoo.cl,5,Valid
+58,Manoj,Pareek,Not Provided,"12,Community Centre",Delhi,Not Provided,India,110017,+91012439883988,Not Provided,manoj.pareek@rediff.com,3,Valid
+59,Puja,Srivastava,Not Provided,"3,Raj Bhavan Road",Bangalore,Not Provided,India,560001,+9108022289999,Not Provided,puja_srivastava@yahoo.in,3,Valid
