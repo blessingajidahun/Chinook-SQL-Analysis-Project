@@ -84,4 +84,70 @@ By resolving these issues before analysis, I ensured:
 
 - Applied window functions for per-country ranking.
 
-Identified top spenders using advanced SQL logic.
+- Identified top spenders using advanced SQL logic.
+- Technical Skills Demonstrated
+## 🔹 Data Preparation
+
+- Power Query (Excel)
+
+- Data transformation
+
+- Encoding standardization (UTF-8)
+
+- Data validation & relational consistency checks
+
+- Structured export for SQL ingestion
+
+## 🔹 SQL & Analytical Techniques
+
+- Complex multi-table JOINs
+
+- Aggregate functions (SUM, COUNT, AVG)
+
+- Subqueries (dynamic filtering)
+
+- Common Table Expressions (CTEs)
+
+- Window functions (RANK(), ROW_NUMBER(), PARTITION BY)
+
+- Revenue calculations using quantity logic
+
+- Per-group ranking analysis
+
+- Business-driven filtering & aggregation
+
+ ##  Business Intelligence Capabilities Shown
+
+### This project demonstrates my ability to:
+
+- Translate business questions into structured SQL logic
+
+- Handle real-world data issues before analysis
+
+- Perform country-level and customer-level revenue analysis
+
+- Identify performance drivers (genre, artist, region)
+
+- Write scalable and dynamic queries
+
+- Produce analysis that supports decision-making
+
+## 📂 Tools & Technologies
+
+- Power Query (Excel)
+
+- SQL (MySQL / SQLite syntax compatible)
+
+- Relational database modeling principles
+
+## This project reflects my readiness for:
+
+- Data Analyst roles
+
+- Business Intelligence roles
+
+- Junior SQL Developer roles
+
+- Analytics-focused graduate programs
+
+I am actively seeking opportunities where I can apply structured data analysis and business insight generation to solve real-world problems.
